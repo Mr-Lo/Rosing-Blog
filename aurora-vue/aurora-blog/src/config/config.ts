@@ -3,8 +3,8 @@ export default {
     TENCENT_CAPTCHA: '2091489673'
   },
   qqLogin: {
-    QQ_APP_ID: '101999415',
-    QQ_REDIRECT_URI: 'https://www.linhaojun.top/oauth/login/qq'
+    QQ_APP_ID: '102040857',
+    QQ_REDIRECT_URI: 'https://www.techcode.top/oauth/login/qq'
   },
   routes: [
     {

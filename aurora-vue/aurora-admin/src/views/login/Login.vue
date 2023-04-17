@@ -78,7 +78,7 @@ export default {
   bottom: 0;
   right: 0;
   left: 0;
-  background: url(https://static.linhaojun.top/photos/765664a8a75211296a9cd89671d6d660.png) center center / cover
+  background: url(https://rosing-blog.oss-cn-beijing.aliyuncs.com/admin-login/wallhaven-o5g2el.jpg) center center / cover
     no-repeat;
 }
 .login-card {
